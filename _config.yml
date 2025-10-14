@@ -1,4 +1,8 @@
 title: My GitHub Page
 description: Personal site hosted on GitHub Pages
-theme: jekyll-theme-cayman
+theme: minima
+sass:
+  style: compressed
+
+
 author: Alain Giresse TENE
