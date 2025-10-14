@@ -1,4 +1,11 @@
-<!DOCTYPE html>
+---
+layout: default
+title: Home
+---
+
+# Welcome!
+This is my homepage.
+
 <html>
 <head>
   <title>AG TENE Home Page</title>
