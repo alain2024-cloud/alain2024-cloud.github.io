@@ -3,4 +3,5 @@ description: Personal site hosted on GitHub Pages
 theme: minima
 sass:
   style: compressed
+  
 author: Alain Giresse TENE
