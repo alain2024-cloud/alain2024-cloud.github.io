@@ -1,0 +1,6 @@
+/* Example for minima theme */
+$brand-color: #ff6600;  // your preferred accent color
+$text-color: #222;
+$background-color: #fefefe;
+
+@import "minima";
