@@ -1,4 +1,4 @@
-theme: minima
+theme: jekyll-theme-cayman
 title: AG TENE Home Page
 description: Personal site hosted on GitHub Pages
 include:
