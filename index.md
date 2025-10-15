@@ -6,7 +6,7 @@ layout:default
   <h1>Welcome to My Website!</h1>
   <p>This is where I share my projects and ideas.</p>
   <header>
-    <img src="/assets/Logo.jpg" alt="Logo" class="header-logo">
+    <img src="/assets/mylogo.jpg" alt="Logo" class="header-logo">
   </header>
 <body>
 This is my homepage.
