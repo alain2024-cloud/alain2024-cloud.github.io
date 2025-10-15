@@ -16,6 +16,11 @@ This is my homepage.
     }
     </style>
 </head>
+  </head>
+<body>
+  <h1>Hello!</h1>
+  <p>This page now has a new background color.</p>
+</body>
 <body>
   <h1>Welcome to My Website!</h1>
   <p>This is where I share my projects and ideas.</p>
