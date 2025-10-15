@@ -1,7 +1,8 @@
+theme: minima
 title: AG TENE Home Page
 description: Personal site hosted on GitHub Pages
-theme: minima
-sass:
-  style: compressed
+include:
+  - assets/css/custom.css
+
   
 author: Alain Giresse TENE
