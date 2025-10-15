@@ -2,12 +2,12 @@
 layout:default
 ---
 <link rel="stylesheet" href="custom.css">
+<header>
+    <img src="/assets/mylogo.jpg" alt="Logo" class="header-logo">
+  </header>
 <body>
   <h1>Welcome to My Website!</h1>
   <p>This is where I share my projects and ideas.</p>
-  <header>
-    <img src="/assets/mylogo.jpg" alt="Logo" class="header-logo">
-  </header>
 <body>
 This is my homepage.
 
