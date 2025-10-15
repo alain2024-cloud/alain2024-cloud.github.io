@@ -2,18 +2,19 @@
 layout: default
 ---
 
-<!DOCTYPE html>
+<!-- <!DOCTYPE html> -->
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <title>My Website</title>
   <link rel="stylesheet" href="custom.css">
+  <img src="/assets/mylogo.jpg" alt="Logo" class="header-logo">
 </head>
 
 <body>
-  <header>
+  <!-- <header>
     <img src="/assets/mylogo.jpg" alt="Logo" class="header-logo">
-  </header>
+  </header> -->
 
   <main>
     <h1>Welcome to My Website!</h1>
