@@ -2,13 +2,15 @@
 layout: default
 title: Home
 ---
-
-# Welcome!
+<body>
+  <h1>Welcome to My Website!</h1>
+  <p>This is where I share my projects and ideas.</p>
+<body>
 This is my homepage.
 
 <html>
 <head>
-  <title>AG TENE Home Page</title>
+  <title>A. G. TENE </title>
     <style>
       body {
       background-color: #f0f8ff;
@@ -17,14 +19,9 @@ This is my homepage.
     </style>
 </head>
   </head>
-<body>
-  <h1>Hello!</h1>
-  <p>This page now has a new background color.</p>
-</body>
-<body>
-  <h1>Welcome to My Website!</h1>
-  <p>This is where I share my projects and ideas.</p>
 
+
+<body>
   <h2>Projects</h2>
   <ul>
     <li>Quantum Circuit Visualizer</li>
