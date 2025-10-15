@@ -1,6 +1,8 @@
 ---
+layout:default
 title: Home
 ---
+<link rel="stylesheet" href="custom.css">
 <body>
   <h1>Welcome to My Website!</h1>
   <p>This is where I share my projects and ideas.</p>
