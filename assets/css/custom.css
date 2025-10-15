@@ -1,6 +1,7 @@
 
-$brand-color: #ff6600;  
-$text-color: #222;
-$background-color: #fefefe;
+body {
+  background-color: #f0f0f0; /* your preferred color */
+  color: #222; /* optional text color */
+}
 
-@import "minima";
+
