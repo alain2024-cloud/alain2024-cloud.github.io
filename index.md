@@ -1,6 +1,5 @@
 ---
 layout:default
-title: Home
 ---
 <link rel="stylesheet" href="custom.css">
 <body>
