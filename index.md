@@ -9,6 +9,12 @@ This is my homepage.
 <html>
 <head>
   <title>AG TENE Home Page</title>
+    <style>
+      body {
+      background-color: #f0f8ff;
+      color: #111;
+    }
+    </style>
 </head>
 <body>
   <h1>Welcome to My Website!</h1>
