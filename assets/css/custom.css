@@ -3,10 +3,7 @@ header {
   color: white;
   padding:20px;
 }
-body {
-  background-color: #f0f0f0; /* your preferred color */
-  color: #222; /* optional text color */
-}
+
 .header-logo{
   width:100px;
   height:auto;
@@ -14,4 +11,7 @@ body {
   margin: 0 auto 10px auto;
 }
 
-
+body {
+  background-color: #f0f0f0; /* your preferred color */
+  color: #222; /* optional text color */
+}
