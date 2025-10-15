@@ -17,8 +17,6 @@ This is my homepage.
     }
     </style>
 </head>
-  </head>
-
 
 <body>
   <h2>Projects</h2>
