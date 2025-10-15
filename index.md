@@ -8,15 +8,7 @@ title: Home
 This is my homepage.
 
 <html>
-<head>
-  <title>A. G. TENE </title>
-    <style>
-      body {
-      background-color: #f0f8ff;
-      color: #111;
-    }
-    </style>
-</head>
+
 
 <body>
   <h2>Projects</h2>
