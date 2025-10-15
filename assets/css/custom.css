@@ -4,7 +4,7 @@ body {
   color: #222; /* optional text color */
 }
 header {
-  background-color: #003366 !important; /* dark blue */
-  color: blue !important;
+  background-color: #003366; /* dark blue */
+  color: white;
 }
 
