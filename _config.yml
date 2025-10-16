@@ -6,6 +6,4 @@ include:
   
 author: Alain Giresse TENE
 
-<header>
-  <img src="{{ site.baseurl }}/assets/mylogo.jpg" alt="Logo" class="header-logo">
-</header>
+
