@@ -3,22 +3,8 @@ layout: default
 title: Home
 ---
 
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>My Website</title>
-  <link rel="stylesheet" href="custom.css">
-  <img src="/assets/mylogo.jpg" alt="Logo" class="header-logo">
-</head>
 
 <body>
-   <header>
-    <img src="/assets/mylogo.jpg" alt="Logo" class="header-logo">
-  </header> 
-
-
-<h1>Welcome to My Website!</h1>
-<p>This is where I share my projects and ideas.</p>
   <main>
     <h1>Welcome to My Website!</h1>
     <p>This is where I share my projects and ideas.</p>
