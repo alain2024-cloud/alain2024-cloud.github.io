@@ -57,7 +57,7 @@ header.flex-row {
 }
 
 
-/*The following Block combine with default to sparate the content  */
+/*This block combine with default.html to divide the page in different sections*/
 .main-grid {
   display: grid;
   grid-template-columns: 1fr 3fr; /* sidebar 1/4 width, main 3/4 */
