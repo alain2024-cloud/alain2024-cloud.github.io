@@ -1,6 +1,7 @@
 theme: jekyll-theme-cayman
 title: AG TENE Home Page
 description: Personal site hosted on GitHub Pages
+url: "https://alain2024-cloud.github.io"
 include:
   - assets/css/custom.css
   
