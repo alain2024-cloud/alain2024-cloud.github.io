@@ -18,7 +18,7 @@ title: Home
 
     <a href="about.html">Learn more about me</a>
 
-
+    <img src="{{ '/assets/mylogo.jpg' | relative_url }}" alt="Project image" width="300">
 
     
   </main>
