@@ -43,6 +43,21 @@ header nav a:hover {
   text-decoration: underline;
 }
 
+header.flex-row {
+  display: flex;
+  justify-content: space-between; /* logo left, nav right */
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: #1565c0;
+}
+
+.header-logo {
+  width: 100px;
+  border-radius: 50%;
+}
+
+
+
 .main-grid {
   display: grid;
   grid-template-columns: 1fr 2fr; /* sidebar + main content */
