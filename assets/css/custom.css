@@ -43,7 +43,11 @@ header nav a:hover {
   text-decoration: underline;
 }
 
-
+.main-grid {
+  display: grid;
+  grid-template-columns: 1fr 2fr; /* sidebar + main content */
+  gap: 20px;
+}
 
 
 
