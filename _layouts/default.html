@@ -18,10 +18,20 @@
       <a href="{{ "contact.md" }}">Contact</a>
     </nav>
   </header>
+  /*This block combine with .css to divide the page in different sections*/
   <main>
-    {{content}}
+  <div class="main-grid">
+    <aside>
+      <h3>Sidebar</h3>
+      <p>Links or profile info here.</p>
+    </aside>
+    <section>
+      {{ content }}
+    </section>
+  </div>
+</main>
 
-  </main>
+  
   <footer>
     <p>&copy; {{ site.time | date: '%Y' }} {{ site.author }}</p>
   </footer>
