@@ -18,19 +18,21 @@
       <a href="{{ "contact.md" }}">Contact</a>
     </nav>
   </header>
-  /*This block combine with .css to divide the page in different sections*/
+  
+  <!-- /*This block combine with .css to divide the page in different sections*/ -->
   <main>
   <div class="main-grid">
     <aside>
-      <h3>Sidebar</h3>
-      <p>Links or profile info here.</p>
+      <h3>Links and profile info </h3>
+      <p>Google profile: <a href="{{"https://scholar.google.com/citations?user=fs5BEqIAAAAJ&hl=en&oi=ao" }}">Link</a>
+     </p>
     </aside>
     <section>
       {{ content }}
     </section>
   </div>
 </main>
-
+<!-- It ends here  -->
   
   <footer>
     <p>&copy; {{ site.time | date: '%Y' }} {{ site.author }}</p>
